@@ -1,11 +1,12 @@
 import java.util.Scanner;
+//Hi this is the first java program
 //This is very important program for exam
 class CheckEvenOdd
 {
   public static void main(String args[])
   {
     int num;
-    System.out.println("Enter an Integer numberto be identified as even or odd:");
+    System.out.println("Enter an Integer number to be identified as even or odd:");
 
     //The input provided by user is stored in num
     Scanner input = new Scanner(System.in);
